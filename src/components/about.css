@@ -1,0 +1,26 @@
+.b1{
+    font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.container{
+    border-radius: 10px;
+}
+.c1{
+    background-image: url(../assets/a11.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.n1{
+    font-family: "Luxurious Roman", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.n2{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;  
+}

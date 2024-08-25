@@ -1,0 +1,19 @@
+.d2{
+    /* background-color: black; */
+    height: 500px;
+    width: 100%;
+    /* color: white; */
+}
+.m1{
+    font-family: "Luxurious Roman", serif;
+  font-weight: 400;
+  font-size: 150px;
+  font-style: normal;
+}
+.m2{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    /* font-size: 14px; */
+    font-style: normal;
+}

@@ -1,0 +1,37 @@
+.hh{
+    font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.d1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
+
+.card-title{
+    /* font-family: "Sankofa Display", sans-serif;
+    font-weight: 400;
+    font-style: normal; */
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.card{
+    transition: ease-in-out;
+    border: white;
+}
+
+.card:hover{
+    transform: scale(1.05);
+}
+.card-text{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    /* font-size: 14px; */
+    font-style: normal;
+}
